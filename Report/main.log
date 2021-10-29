@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.6)  29 OCT 2021 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.6)  29 OCT 2021 21:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -530,4 +530,266 @@ LaTeX Info: Redefining \nameref on input line 9.
  ABD: EveryShipout initializing macros (./titles.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 28.
-LaTeX Font Info:    External font `cmex10' loaded for si
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./certificate.tex
+Overfull \hbox (15.94574pt too wide) in paragraph at lines 6--14
+\OT1/cmr/m/n/17.28 stu-dent in the De-part-ment of Elec-tri-cal En-gi-neer-ing,
+ Tezpur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 \end{titlepage}
+                     [1]) (./acknowledgement.texpdfTeX warning (ext4): destinat
+ion with the same identifier (name{page.1}) has been already used, duplicate ig
+nored
+<to be read again> 
+                   \relax 
+l.12 \end{titlepage}
+                     [1])
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.31 \newpage
+              [1]
+<./img/1.png, id=30, 576.9555pt x 231.86626pt>
+File: ./img/1.png Graphic file (type png)
+<use ./img/1.png>
+Package pdftex.def Info: ./img/1.png  used on input line 39.
+(pdftex.def)             Requested size: 576.95409pt x 231.86568pt.
+<./img/2.png, id=32, 566.115pt x 274.626pt>
+File: ./img/2.png Graphic file (type png)
+<use ./img/2.png>
+Package pdftex.def Info: ./img/2.png  used on input line 44.
+(pdftex.def)             Requested size: 396.2778pt x 192.23688pt.
+<./img/3.png, id=33, 455.301pt x 224.037pt>
+File: ./img/3.png Graphic file (type png)
+<use ./img/3.png>
+Package pdftex.def Info: ./img/3.png  used on input line 48.
+(pdftex.def)             Requested size: 455.29988pt x 224.03644pt.
+<./img/4.png, id=34, 516.7305pt x 215.00325pt>
+File: ./img/4.png Graphic file (type png)
+<use ./img/4.png>
+Package pdftex.def Info: ./img/4.png  used on input line 52.
+(pdftex.def)             Requested size: 413.38495pt x 172.00282pt.
+<./img/5.png, id=35, 404.712pt x 221.02576pt>
+File: ./img/5.png Graphic file (type png)
+<use ./img/5.png>
+Package pdftex.def Info: ./img/5.png  used on input line 56.
+(pdftex.def)             Requested size: 323.77003pt x 176.82083pt.
+<./img/6.png, id=36, 552.8655pt x 237.88875pt>
+File: ./img/6.png Graphic file (type png)
+<use ./img/6.png>
+Package pdftex.def Info: ./img/6.png  used on input line 61.
+(pdftex.def)             Requested size: 387.0032pt x 166.52098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Overfull \hbox (186.95409pt too wide) in paragraph at lines 33--62
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Overfull \hbox (6.2778pt too wide) in paragraph at lines 33--62
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Overfull \hbox (65.29988pt too wide) in paragraph at lines 33--62
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Overfull \hbox (23.38495pt too wide) in paragraph at lines 33--62
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--62
+
+ []
+
+[2 <./img/1.png>] [3 <./img/2.png> <./img/3.png>] [4 <./img/4.png> <./img/5.png
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--75
+
+ []
+
+
+Overfull \hbox (123.02493pt too wide) in paragraph at lines 81--82
+[][]$\OT1/cmtt/m/n/12 https : / / www . mondaq . com / india / waste-[]manageme
+nt / 624836 / environment-[]laws-[]in-[]india$[] 
+ []
+
+[5 <./img/6.png>] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  AFD08F03A09EDF31C2DBDF0DC9B08894;227.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
+ ) 
+Here is how much of TeX's memory you used:
+ 15470 strings out of 483183
+ 298764 string characters out of 5966293
+ 529192 words of memory out of 5000000
+ 30167 multiletter control sequences out of 15000+600000
+ 538578 words of font info for 45 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 60i,5n,60p,689b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (9 pages, 213302 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+
